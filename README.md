@@ -7,4 +7,4 @@
 Følg vejledningen i vores whuf02 repo.
 Brug dette repo til udvikling og aflevering.
 
-Don't forget to push and commit!!!!
+Don't forget to commit-n-push!!!!
